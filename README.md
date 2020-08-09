@@ -1,0 +1,2 @@
+# labyrinthe_casio
+Originally a school project to make a C program which creates a maze. The algorithm is home-made (not very clean but still). This program is made to run on a Casio calculator add-in compatible.
